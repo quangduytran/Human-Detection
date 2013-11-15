@@ -22,3 +22,9 @@ Future Objective: continue to optimize the program to be able to detect human in
 
 Reference: 
 Histograms of Oriented Gradients for Human Detection - Navneet Dalal, Bill Triggs (site: http://lear.inrialpes.fr/pubs/2005/DT05/)
+
+
+DEMOS:
+1. https://www.youtube.com/watch?v=DLtSvSmTcDc (Image resolution: 1260 x 930)
+2. Faster detection demo (with smaller image resolution - 640 x 480): 
+    https://www.youtube.com/watch?v=O7EVwCGhIoQ
