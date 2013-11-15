@@ -32,6 +32,7 @@ Histograms of Oriented Gradients for Human Detection - Navneet Dalal, Bill Trigg
 
 
 DEMOS:
+
 1. https://www.youtube.com/watch?v=DLtSvSmTcDc (Image resolution: 1260 x 930)
 
 2. Faster detection demo (with smaller image resolution - 640 x 480): 
