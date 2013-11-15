@@ -13,6 +13,7 @@ Test image's size: From 480 x 680 (pixels)  to   1260 x 930 (pixels)
 
 Detection's Time:    0 - 30 (s), correspond to image's size.
 
+
 Program's Features:
 
     Self-coding: feature description, and object localization methods. (Do not use OpenCV Object Detection Library).
@@ -29,6 +30,7 @@ Future Objective: continue to optimize the program to be able to detect human in
 Reference: 
 
 Histograms of Oriented Gradients for Human Detection - Navneet Dalal, Bill Triggs (site: http://lear.inrialpes.fr/pubs/2005/DT05/)
+
 
 
 DEMOS:
