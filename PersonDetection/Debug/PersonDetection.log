@@ -1,0 +1,24 @@
+﻿Build started 6/14/2012 7:05:04 PM.
+     1>Project "C:\Users\DuyQuang\Desktop\My Projects\Computer Vision\PersonDetectionMultiScale\Source Code\PersonDetection\PersonDetection.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PersonDetection.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\PersonDetection.unsuccessfulbuild".
+         Touching "Debug\PersonDetection.lastbuildstate".
+     1>Done Building Project "C:\Users\DuyQuang\Desktop\My Projects\Computer Vision\PersonDetectionMultiScale\Source Code\PersonDetection\PersonDetection.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
